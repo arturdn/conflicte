@@ -1,2 +1,6 @@
 ARtur
+<<<<<<< HEAD
 hola com estas molt be gracies
+=======
+no nos enteramos de nada 
+>>>>>>> origin/master
